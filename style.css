@@ -293,7 +293,7 @@ body.menu-expanded .menu {
   background: var(--primary-color);
 
   width: 100vw;
-  height: 100vw;
+  height: 100vh;
 
   padding-top: var(--nav-height);
 
